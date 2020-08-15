@@ -1,0 +1,13 @@
+#welcome .section-inner {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQutxAU5LjSPYjmEqbjiKE90wB-pBjM_dxt-w&usqp=CAU');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.light-wrapper .section-inner {
+    background-image: url('https://humas.sambas.go.id/wp-content/uploads/2017/09/Background-Putih.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
